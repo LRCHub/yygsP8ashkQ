@@ -1,0 +1,90 @@
+# メガテラ・ゼロ – LIFE IS BEAUTIFUL
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+あぁ、今
+あなたの心が叫んでる
+苦しい寂しい助けて
+叫んでる
+声上げれば誰かが
+駆けつけてく
+優しく愛しいあなたを待ってる
+手を伸ばしてごらん?
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+あぁ、今
+あなたの心が叫んでる
+苦しい寂しい
+TASUKETE
+叫んでる
+声上げれば誰かが
+駆けつけてく
+優しく愛しいあなたを待ってる
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+いつだって誰だって
+優しさを探している
+いつだって誰だって
+愛しさに浸っていく
+いつだって誰だって
+助けあい求めあう
+いつだって誰だって
+僕だって
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+いつだって誰だって
+助けあい求めあう
+いつだって誰だって
+僕だって
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AA
+愛 Aaa
+哀 Aaa
+LIFE is Beautiful
+AAA
+```
