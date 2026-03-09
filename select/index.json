@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "LIFE IS BEAUTIFUL",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-03-09T12:27:10.715622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life is Beautiful",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/01_Life_is_Beautiful_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Is Beautiful",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/02_Life_Is_Beautiful_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life is beautiful",
+      "artist": "Bish",
+      "has_synced": true,
+      "path": "select/03_Life_is_beautiful_Bish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life is Beautiful",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": false,
+      "path": "select/04_Life_is_Beautiful_The_Oak_Ridge_Boys.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life Is Beautiful",
+      "artist": "Vega4",
+      "has_synced": true,
+      "path": "select/05_Life_Is_Beautiful_Vega4.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sorridi amore mai (From \"Life Is Beautiful\")",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/06_Sorridi_amore_mai_(From__Life_Is_Beautiful_)_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sorridi amore vai (From 'Life Is Beautiful')",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/07_Sorridi_amore_vai_(From_'Life_Is_Beautiful')_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SHORT STORY-life is beautiful-",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/08_SHORT_STORY-life_is_beautiful-_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SHORT STORY -life is beautiful-",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/09_SHORT_STORY_-life_is_beautiful-_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life Is Beautiful",
+      "artist": "Gary B",
+      "has_synced": false,
+      "path": "select/10_Life_Is_Beautiful_Gary_B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life Is Beautiful",
+      "artist": "Sixx:A.M.",
+      "has_synced": true,
+      "path": "select/11_Life_Is_Beautiful_Sixx_A.M..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life Is Beautiful",
+      "artist": "The Afters",
+      "has_synced": true,
+      "path": "select/12_Life_Is_Beautiful_The_Afters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Life is Beautiful",
+      "artist": "Sixx:A.M.",
+      "has_synced": true,
+      "path": "select/13_Life_is_Beautiful_Sixx_A.M..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIFE IS BEAUTIFUL",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_LIFE_IS_BEAUTIFUL_メガテラ・ゼロ.txt"
+    }
+  ]
+}
